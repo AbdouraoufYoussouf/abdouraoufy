@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdouraoufy/static/css/main.073c9b0a.css",
+    "main.js": "/abdouraoufy/static/js/main.2dafd514.js",
+    "static/js/787.c9cff8c3.chunk.js": "/abdouraoufy/static/js/787.c9cff8c3.chunk.js",
+    "index.html": "/abdouraoufy/index.html",
+    "main.073c9b0a.css.map": "/abdouraoufy/static/css/main.073c9b0a.css.map",
+    "main.2dafd514.js.map": "/abdouraoufy/static/js/main.2dafd514.js.map",
+    "787.c9cff8c3.chunk.js.map": "/abdouraoufy/static/js/787.c9cff8c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2dafd514.js"
+  ]
+}
